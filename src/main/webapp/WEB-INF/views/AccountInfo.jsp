@@ -24,7 +24,7 @@ a:hover {
   text-decoration:none; 
 }
 
-/* selected  */
+/* selected link */
 a:active {
   color: white;
   text-decoration:none; 
